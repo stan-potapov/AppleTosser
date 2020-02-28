@@ -1,2 +1,1 @@
-# AppleTosser
- Module 1 Final
+I decided to turn the apple picker game on its head, where instead of you catching apples, you put them in the basket. I did this by taking the slingshot from Mission Demolition and putting the apple as the projectile. I then switched the basket and apple tree scrips, cleaned up a bunch of unneccesary code, and voila. Apple Tosser.
