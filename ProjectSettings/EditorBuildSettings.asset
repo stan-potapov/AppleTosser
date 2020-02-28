@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AppleTosser.unity
+    guid: 05141d5672d6d4b438d28917e0a81145
   m_configObjects: {}
